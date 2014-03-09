@@ -7,7 +7,10 @@ $newData = array('list' =>array());
 $id = 1;
 if((int)$addressCount[0] >=5) 
 {
+	
 	echo "添加数量超限";
+	mysql_query("delete from address");
+	echo "已删除,请重新添加";
 	return ;
 }
 $data = mysql_query("select * from address order by id desc");
@@ -36,7 +39,8 @@ if( (int)$addressCount[0] > 0)
 {
 	for( $i = 1; $i <= 5; $i++ )
 	{
-		if(!isHaveId( $i , $newData['list'] ))
+		//if(!isHaveId( $i , $newData['list'] ))
+		if(!array_key_exists( $i , $newData['list'] ))
 		{
 			$id = $i;
 			break;
