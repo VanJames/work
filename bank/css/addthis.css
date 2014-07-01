@@ -1,0 +1,79 @@
+.addthis_box{ position:absolute; display:block; visibility:hidden; border:#C2DEE8 solid 3px; background:#FFF; width:323px; z-index:998;font-family: "Trebuchet MS", Arial, 'ËÎÌו';font-weight:normal; font-size:12px;}
+.addthis_sideBar{ position:fixed; _position:absolute; z-index:9999; overflow:hidden;}
+.addthis_sideBar .addthis_box{ width:228px;}
+.addthis_box .bgfrm{filter: alpha(opacity=0);-moz-opacity:0;opacity: 0; display:block;position:absolute;z-index:-1;}
+.addthis_box .addshow{ width:316px;}
+.addthis_sideBar .addshow{ width:221px;}
+.addthis_box .addh{ height:20px; background:#EDF5F8; text-align:left;}
+.addthis_box .addh .addt{ padding-left:6px; line-height:20px; color:#666;}
+.addthis_box .addbottom{ height:14px; height:18px; background:#EDF5F8; text-align:right; margin-top:5px; padding:0 6px 0 0;}
+.addthis_box .addlist{position:inherit; margin:0 0 3px 0; padding:6px; width:303px;}
+.addthis_sideBar .addlist{ width:208px;}
+.addthis_box .addlist li, .addthis_box .addlist .li{white-space:nowrap; overflow:hidden; color:#666; font-size:12px; font-weight:normal; text-align:left;  float:left; display:inline; position:inherit; margin:0 0 0 3px; padding:0; line-height:16px; width:90px; height:20px; border:#FFF solid 1px; background:none;}
+.addthis_box .addlist li.on, .addthis_box .addlist .on{width:90px; height:20px; background:#F3F3F3; border:#DDD solid 1px;}
+.addthis_box .addlist a{ padding-left:19px; line-height:18px; height:18px; display:block; margin:1px;}
+.addthis_box .addlist a:link,
+.addthis_box .addlist a:visited{ color:#666; text-decoration:none;}
+.addthis_box .addlist a:hover{ color:#7EB937; text-decoration:none;}
+.addthis_box .addbottom a:link,
+.addthis_box .addbottom a:visited{ color:#0083B1; text-decoration:none;}
+.addico,.add_0,.add_1,.add_2,.add_3,.add_4,.add_5,.add_10,.add_11,
+.add_12,.add_14,.add_16,.add_19,.add_20,.add_21,.add_22,.add_23,
+.add_24,.add_25,.add_27,.add_28,.add_29,.add_30,.add_31,.add_32,
+.add_33,.add_34,.add_35,.add_36,.add_37,.add_38,.add_39,.add_40,
+.add_41,.add_71,.add_72,.add_73,.add_74,.add_75,.add_76,.add_101,
+.add_42,.add_43,.add_44,.add_45,.add_46,.add_47,.add_48,.add_49,.add_50,.add_51,
+.add_888,.add_999{background:url(http://www.zjsw.cn/zjsw/images/ic.gif) no-repeat left;} /*http://www.zjsw.cn/zjsw/images/ic.gif  http://pic.yupoo.com/f-bull/AAy4aBlu/25IzJ.gif */
+.add_0{background-position:0px 0px}
+.add_1{background-position:0px -20px}
+.add_2{background-position:0px -40px}
+.add_3{background-position:0px -60px}
+.add_4{background-position:0px -80px}
+.add_5{background-position:0px -100px}
+.add_10{background-position:0px -120px}
+.add_11{background-position:0px -140px}
+.add_12{background-position:0px -160px}
+.add_14{background-position:0px -180px}
+.add_16{background-position:0px -200px}
+.add_19{background-position:0px -220px}
+.add_20{background-position:0px -240px}
+.add_21{background-position:0px -260px}
+.add_22{background-position:0px -280px}
+.add_23{background-position:0px -300px}
+.add_24{background-position:0px -320px}
+.add_25{background-position:0px -340px}
+.add_27{background-position:0px -380px}
+.add_28{background-position:0px -400px}
+.add_29{background-position:0px -420px}
+.add_30{background-position:0px -440px}
+.add_31{background-position:0px -460px}
+.add_32{background-position:0px -480px}
+.add_33{background-position:0px -500px}
+.add_34{background-position:0px -520px}
+.add_35{background-position:0px -540px}
+.add_36{background-position:0px -560px}
+.add_37{background-position:0px -580px}
+.add_38{background-position:0px -600px}
+.add_39{background-position:0px -620px}
+.add_40{background-position:0px -640px}
+.add_41{background-position:0px -660px}
+.add_42{background-position:0px -860px}
+.add_43{background-position:0px -880px}
+.add_44{background-position:0px -900px}
+.add_45{background-position:0px -920px}
+.add_46{background-position:0px -940px}
+.add_47{background-position:0px -960px}
+.add_48{background-position:0px -980px}
+.add_49{background-position:0px -1000px}
+.add_50{background-position:0px -1020px}
+.add_51{background-position:0px -1040px}
+.add_71{background-position:0px -680px}
+.add_72{background-position:0px -700px}
+.add_73{background-position:0px -720px}
+.add_74{background-position:0px -740px}
+.add_75{background-position:0px -760px}
+.add_76{background-position:0px -780px}
+.add_101{background-position:0px -800px}
+.add_888{background-position:0px -820px}
+.add_999{background-position:0px -840px}
+

