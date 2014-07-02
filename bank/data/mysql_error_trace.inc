@@ -187,3 +187,10 @@ Error: DedeCms错误警告：<font color='red'>连接数据库失败，可能数
 Time2014-06-28 14:48:05
 */
 ?>
+<?php  exit();
+/*
+Page: /
+Error: DedeCms错误警告：<font color='red'>连接数据库失败，可能数据库密码不对或数据库服务器出错！</font>
+Time2014-07-02 22:12:36
+*/
+?>

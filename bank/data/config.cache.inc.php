@@ -1,14 +1,14 @@
 <?php
 $cfg_disable_funs = 'phpinfo,eval,exec,passthru,shell_exec,system,proc_open,popen,curl_exec,curl_multi_exec,parse_ini_file,show_source,file_put_contents';
 $cfg_disable_tags = 'php';
-$cfg_basehost = 'http://shouzhuan.org';
+$cfg_basehost = 'http://bank.a.com';
 $cfg_cmspath = '';
-$cfg_cookie_encode = 'nRPHLD6uhw9krmQgi1Sg84snbdRp9D0y';
+$cfg_cookie_encode = 'NUW72XdiocthNkNF4Gervht7QwUO';
 $cfg_indexurl = '/';
 $cfg_backup_dir = 'backupdata';
 $cfg_indexname = '主页';
-$cfg_webname = '银行培训';
-$cfg_adminemail = '746439274@qq.com';
+$cfg_webname = '我的网站';
+$cfg_adminemail = 'admin@dedecms.com';
 $cfg_html_editor = 'ckeditor';
 $cfg_arcdir = '/';
 $cfg_medias_dir = '/uploads';
