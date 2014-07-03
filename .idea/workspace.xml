@@ -2,204 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="552f9f72-e823-448b-8f2a-1cee084be9a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/work.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/sessions/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/sessions/sess_48b8185a2f298a221d1d3b1c344f9fba" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/046fb106ec4c932ba6c7445aafa1fade.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/046fb106ec4c932ba6c7445aafa1fade.incd47fce88cfd76e6c.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/046fb106ec4c932ba6c7445aafa1fade.incd47fce88cfd76e6c.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/164f4a29a3c75b86716c7f54479ab19f.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/164f4a29a3c75b86716c7f54479ab19f.inc9ec1ab16e2516741.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/164f4a29a3c75b86716c7f54479ab19f.inc9ec1ab16e2516741.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/1a4c6b5f435312598291aa3db38adea1.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/1a4c6b5f435312598291aa3db38adea1.inc910e85756203beb1.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/1a4c6b5f435312598291aa3db38adea1.inc910e85756203beb1.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/1ef5e9a65bba49551ef82c8ea9c189ba.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/1ef5e9a65bba49551ef82c8ea9c189ba.inc2b3d35b92c9a715d.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/1ef5e9a65bba49551ef82c8ea9c189ba.inc2b3d35b92c9a715d.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/1fd8c32e945c9c0654a19dd324a46592.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/1fd8c32e945c9c0654a19dd324a46592.incb904f81d3cab19ed.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/1fd8c32e945c9c0654a19dd324a46592.incb904f81d3cab19ed.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/2157418d693bd9ffa6b2848fc449ac69.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/2157418d693bd9ffa6b2848fc449ac69.inc6a7285c701cd484f.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/2157418d693bd9ffa6b2848fc449ac69.inc6a7285c701cd484f.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/2438cb0dcc2510d255f3912b3f762cad.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/2438cb0dcc2510d255f3912b3f762cad.inc0fc132c238c8d32c.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/2438cb0dcc2510d255f3912b3f762cad.inc0fc132c238c8d32c.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/25eae2c766049ca901972d2bc2e0fd08.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/25eae2c766049ca901972d2bc2e0fd08.inc47e04e5dd16a05d2.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/25eae2c766049ca901972d2bc2e0fd08.inc47e04e5dd16a05d2.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/282a554a895028794c627a9aa978fb8a.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/282a554a895028794c627a9aa978fb8a.inc1619957cfbab3e19.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/282a554a895028794c627a9aa978fb8a.inc1619957cfbab3e19.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/292eeb3798f5de327aa35ca72f47e873.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/292eeb3798f5de327aa35ca72f47e873.inca3f2934ab8bbef49.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/292eeb3798f5de327aa35ca72f47e873.inca3f2934ab8bbef49.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/36d309778978197127c454eafd879ba5.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/36d309778978197127c454eafd879ba5.inc1bc314af061445c6.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/36d309778978197127c454eafd879ba5.inc1bc314af061445c6.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/3b56c786c47a443c60a595f5a2f1b6ee.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/3b56c786c47a443c60a595f5a2f1b6ee.inc60aa44d999c7f7c9.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/3b56c786c47a443c60a595f5a2f1b6ee.inc60aa44d999c7f7c9.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/4490aa5caa60f2866d98cac5efce3613.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/4490aa5caa60f2866d98cac5efce3613.inc0df9847a5839a2af.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/4490aa5caa60f2866d98cac5efce3613.inc0df9847a5839a2af.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5817143711baa43fac803bc7478a59da.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5817143711baa43fac803bc7478a59da.inc5e9486b552390ec3.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5817143711baa43fac803bc7478a59da.inc5e9486b552390ec3.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/59a4e8d00daba338aba975454ea84710.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/59a4e8d00daba338aba975454ea84710.inc2e8ece7fb7c0e302.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/59a4e8d00daba338aba975454ea84710.inc2e8ece7fb7c0e302.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5b9604d70afb7a3eed468833da7c0d0b.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5b9604d70afb7a3eed468833da7c0d0b.inc1a7707c1936aa152.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5b9604d70afb7a3eed468833da7c0d0b.inc1a7707c1936aa152.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5c5552104c6431f24039ebf2f4b3ba75.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5c5552104c6431f24039ebf2f4b3ba75.incd258830e8854b854.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5c5552104c6431f24039ebf2f4b3ba75.incd258830e8854b854.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5e091951b05fe0b1a250f1fbbc039292.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5e091951b05fe0b1a250f1fbbc039292.inc7887d38e1254228d.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/5e091951b05fe0b1a250f1fbbc039292.inc7887d38e1254228d.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/6bfe7adfc06f1d420a322b00e4336e1f.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/6bfe7adfc06f1d420a322b00e4336e1f.incab43e1b2b5649022.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/6bfe7adfc06f1d420a322b00e4336e1f.incab43e1b2b5649022.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/6eb32f896110fab7dcb177de10beab63.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/6eb32f896110fab7dcb177de10beab63.inc76cc21db4b1c7056.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/6eb32f896110fab7dcb177de10beab63.inc76cc21db4b1c7056.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/6efaa20ad652ee06d0ae06379369cb45.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/6efaa20ad652ee06d0ae06379369cb45.inc2a1b702d9a016cbc.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/6efaa20ad652ee06d0ae06379369cb45.inc2a1b702d9a016cbc.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/7154292077c5f10886cd7d917621bf18.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/7154292077c5f10886cd7d917621bf18.inc53da89acc2de028c.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/7154292077c5f10886cd7d917621bf18.inc53da89acc2de028c.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/721a9eaad3d3d0a4afde84bc47e51476.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/721a9eaad3d3d0a4afde84bc47e51476.incb6771c37c1c05781.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/721a9eaad3d3d0a4afde84bc47e51476.incb6771c37c1c05781.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/84dafc3135ab58984c4b2d361433a765.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/84dafc3135ab58984c4b2d361433a765.inc76030181555300e3.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/84dafc3135ab58984c4b2d361433a765.inc76030181555300e3.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/91940327547e1acfeba035c32f5a4fae.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/91940327547e1acfeba035c32f5a4fae.inc5110b14a265a5bc8.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/91940327547e1acfeba035c32f5a4fae.inc5110b14a265a5bc8.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/9488b0133b7e23006d6eee8beeae730e.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/9488b0133b7e23006d6eee8beeae730e.incbe91d75d620a899e.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/9488b0133b7e23006d6eee8beeae730e.incbe91d75d620a899e.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/a47b00e1c8463903658b2fd076fdb813.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/a47b00e1c8463903658b2fd076fdb813.incaf975a4e3cb5c95c.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/a47b00e1c8463903658b2fd076fdb813.incaf975a4e3cb5c95c.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/ab9f8ad620f232ea47bb3f2458bd31bc.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/ab9f8ad620f232ea47bb3f2458bd31bc.inc3f9bd99b51118fa5.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/ab9f8ad620f232ea47bb3f2458bd31bc.inc3f9bd99b51118fa5.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/ad541828978e498e1678c5eb0ac84fbe.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/ad541828978e498e1678c5eb0ac84fbe.inc0b0bba99e72ad5b0.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/ad541828978e498e1678c5eb0ac84fbe.inc0b0bba99e72ad5b0.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/article_article.htm2017d6b6e3ebb6e0.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/article_article.htm2017d6b6e3ebb6e0.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/b892babc0b5d4eb662211661d82da954.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/b892babc0b5d4eb662211661d82da954.inc21127b7d433d7c94.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/b892babc0b5d4eb662211661d82da954.inc21127b7d433d7c94.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/c2a05e0ade4ec85ca77dc4298b6a2823.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/c2a05e0ade4ec85ca77dc4298b6a2823.incf3a4344c56217572.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/c2a05e0ade4ec85ca77dc4298b6a2823.incf3a4344c56217572.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/c61cc1b4cd098d9dff66654ef709e7b1.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/c61cc1b4cd098d9dff66654ef709e7b1.inc9e8c45cabc0678e7.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/c61cc1b4cd098d9dff66654ef709e7b1.inc9e8c45cabc0678e7.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/contact.htm3982e70aa7d27cc3.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/contact.htm3982e70aa7d27cc3.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/content_list_7f8969ec29d5298874f04771.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/d45710aa30d1f341ac6d97d6584f3b87.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/d45710aa30d1f341ac6d97d6584f3b87.inca837d29628bb0232.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/d45710aa30d1f341ac6d97d6584f3b87.inca837d29628bb0232.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/da5de315abe4d421146932095421e856.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/da5de315abe4d421146932095421e856.ince9f7294f0acd8e5b.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/da5de315abe4d421146932095421e856.ince9f7294f0acd8e5b.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/dab83387db613f235a2d6798bf90f244.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/dab83387db613f235a2d6798bf90f244.incfa9c7b90c173727a.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/dab83387db613f235a2d6798bf90f244.incfa9c7b90c173727a.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/dc35949da1ca27a43d84e8328193fe66.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/dc35949da1ca27a43d84e8328193fe66.inc3f83b05d50d8672b.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/dc35949da1ca27a43d84e8328193fe66.inc3f83b05d50d8672b.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/e10306ed0745f1f448fdeee693dfb2a7.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/e10306ed0745f1f448fdeee693dfb2a7.inc47c28e5a5b67986b.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/e10306ed0745f1f448fdeee693dfb2a7.inc47c28e5a5b67986b.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/e3ae069b49e30e64414fec2a80263bb3.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/e3ae069b49e30e64414fec2a80263bb3.inc598dc8679ae3bc71.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/e3ae069b49e30e64414fec2a80263bb3.inc598dc8679ae3bc71.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/e717f84075395889eebc0228dcdf8818.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/e717f84075395889eebc0228dcdf8818.incf6b5773b33cea564.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/e717f84075395889eebc0228dcdf8818.incf6b5773b33cea564.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/f759a8cbc5e8a85c4ab98f7307626e7f.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/f759a8cbc5e8a85c4ab98f7307626e7f.inc2b102ebe5e323b6f.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/f759a8cbc5e8a85c4ab98f7307626e7f.inc2b102ebe5e323b6f.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/fb137d0e220f6be7679dba5fe6c6fe64.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/fb137d0e220f6be7679dba5fe6c6fe64.incc995d2a055911a75.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/fb137d0e220f6be7679dba5fe6c6fe64.incc995d2a055911a75.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/fd8127d1d225bdc34e824fad40fa0337.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/fd8127d1d225bdc34e824fad40fa0337.inc753852ec18cd6bf7.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/fd8127d1d225bdc34e824fad40fa0337.inc753852ec18cd6bf7.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/fe5700c310a19a6887e118f3ce379e4e.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/fe5700c310a19a6887e118f3ce379e4e.inc6de0189f02c63dd5.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/fe5700c310a19a6887e118f3ce379e4e.inc6de0189f02c63dd5.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/file_edit.htm5420c9c0c82a40ae.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/file_edit.htm5420c9c0c82a40ae.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/footer.htm50b5511f55539f7a.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/footer.htm50b5511f55539f7a.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/footer.htm61dff638fa300072.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/footer.htm61dff638fa300072.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/head.htm67cdfcb705131543.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/head.htm67cdfcb705131543.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/index.htm2043c09cf9149da9.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/index.htm2043c09cf9149da9.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/index.htm7bdf87f622c8a748.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/index.htm7bdf87f622c8a748.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/list_article.htm78af05e02d0f25bd.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/list_article.htm78af05e02d0f25bd.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/quickmenu-1.txt0b22694cffcb0572.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/quickmenu-1.txt0b22694cffcb0572.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/services.htm6ea754e38716e6ec.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/services.htm6ea754e38716e6ec.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/top.htm320598de2e2af6c0.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/top.htm320598de2e2af6c0.inc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/win_templet.htm41143485607f916d.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank/data/tplcache/win_templet.htm41143485607f916d.inc.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/images/tg_logo.png" afterPath="$PROJECT_DIR$/bank/images/tg_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/module/606c658db048ea7328ffe1c7ae2a732f-readme.php" afterPath="$PROJECT_DIR$/bank/data/module/606c658db048ea7328ffe1c7ae2a732f-readme.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/cache/admincat_1.inc" afterPath="$PROJECT_DIR$/bank/data/cache/admincat_1.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/cache/flink/b7/06/83/b706835de79a2b4e80506f582af3676a.php" afterPath="$PROJECT_DIR$/bank/data/cache/flink/b7/06/83/b706835de79a2b4e80506f582af3676a.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/blood.php" afterPath="$PROJECT_DIR$/bank/data/enums/blood.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/bodytype.php" afterPath="$PROJECT_DIR$/bank/data/enums/bodytype.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/include/helpers/changyan.helper.php" afterPath="$PROJECT_DIR$/bank/include/helpers/changyan.helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/include/taglib/changyan.lib.php" afterPath="$PROJECT_DIR$/bank/include/taglib/changyan.lib.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/dede/changyan_main.php" afterPath="$PROJECT_DIR$/bank/dede/changyan_main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/common.inc.php" afterPath="$PROJECT_DIR$/bank/data/common.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/config.cache.bak.php" afterPath="$PROJECT_DIR$/bank/data/config.cache.bak.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/config.cache.inc.php" afterPath="$PROJECT_DIR$/bank/data/config.cache.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/templets/web1/contact.htm" afterPath="$PROJECT_DIR$/bank/templets/web1/contact.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/cosize.php" afterPath="$PROJECT_DIR$/bank/data/enums/cosize.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/datingtype.php" afterPath="$PROJECT_DIR$/bank/data/enums/datingtype.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/drink.php" afterPath="$PROJECT_DIR$/bank/data/enums/drink.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/education.php" afterPath="$PROJECT_DIR$/bank/data/enums/education.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/house.php" afterPath="$PROJECT_DIR$/bank/data/enums/house.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/cache/inc_catalog_base.inc" afterPath="$PROJECT_DIR$/bank/data/cache/inc_catalog_base.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/income.php" afterPath="$PROJECT_DIR$/bank/data/enums/income.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/templets/web1/index.htm" afterPath="$PROJECT_DIR$/bank/templets/web1/index.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/infotype.js" afterPath="$PROJECT_DIR$/bank/data/enums/infotype.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/infotype.php" afterPath="$PROJECT_DIR$/bank/data/enums/infotype.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/install/install_lock.txt" afterPath="$PROJECT_DIR$/bank/install/install_lock.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/marital.php" afterPath="$PROJECT_DIR$/bank/data/enums/marital.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/mysql_error_trace.inc" afterPath="$PROJECT_DIR$/bank/data/mysql_error_trace.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/nativeplace.js" afterPath="$PROJECT_DIR$/bank/data/enums/nativeplace.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/nativeplace.php" afterPath="$PROJECT_DIR$/bank/data/enums/nativeplace.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/smoke.php" afterPath="$PROJECT_DIR$/bank/data/enums/smoke.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/star.php" afterPath="$PROJECT_DIR$/bank/data/enums/star.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/system.php" afterPath="$PROJECT_DIR$/bank/data/enums/system.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/vocation.js" afterPath="$PROJECT_DIR$/bank/data/enums/vocation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank/data/enums/vocation.php" afterPath="$PROJECT_DIR$/bank/data/enums/vocation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="work.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -225,7 +28,7 @@
       <file leaf-file-name="about.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bank/templets/web1/about.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="17" selection-start="690" selection-end="690" vertical-scroll-proportion="-9.655172" vertical-offset="0" max-vertical-offset="1960">
+            <state line="14" column="17" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="1960">
               <folding />
             </state>
           </provider>
@@ -234,10 +37,8 @@
       <file leaf-file-name="index.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bank/templets/web1/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="846" selection-end="1095" vertical-scroll-proportion="-8.275862" vertical-offset="180" max-vertical-offset="5080">
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="21" column="0" selection-start="846" selection-end="1095" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="5080">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -245,7 +46,7 @@
       <file leaf-file-name="contact.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bank/templets/web1/contact.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="68" selection-start="2609" selection-end="2609" vertical-scroll-proportion="1.1184211" vertical-offset="720" max-vertical-offset="2540">
+            <state line="59" column="20" selection-start="1943" selection-end="1943" vertical-scroll-proportion="-1.0197369" vertical-offset="1800" max-vertical-offset="2540">
               <folding />
             </state>
           </provider>
@@ -325,6 +126,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -389,7 +191,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -398,6 +199,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -428,17 +230,17 @@
     <frame x="65" y="-4" width="1215" height="804" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18562874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18905047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -467,23 +269,42 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bank/templets/web1/about.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="17" selection-start="690" selection-end="690" vertical-scroll-proportion="-9.655172" vertical-offset="0" max-vertical-offset="1960">
+        <state line="14" column="17" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1960">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bank/templets/web1/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="846" selection-end="1095" vertical-scroll-proportion="-8.275862" vertical-offset="180" max-vertical-offset="5080">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="21" column="0" selection-start="846" selection-end="1095" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="5080">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bank/templets/web1/contact.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="68" selection-start="2609" selection-end="2609" vertical-scroll-proportion="1.1184211" vertical-offset="720" max-vertical-offset="2540">
+        <state line="47" column="67" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="2540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bank/templets/web1/about.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="17" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="1960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bank/templets/web1/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="846" selection-end="1095" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="5080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bank/templets/web1/contact.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="20" selection-start="1943" selection-end="1943" vertical-scroll-proportion="-1.0197369" vertical-offset="1800" max-vertical-offset="2540">
           <folding />
         </state>
       </provider>
