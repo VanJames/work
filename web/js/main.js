@@ -17,6 +17,8 @@ include('js/jquery.prettyPhoto.js');
 include('js/jquery.jplayer.min.js');
 //----All-Scripts----
 include('js/script.js');
+//----init-Scripts----
+include('js/init.js');
 //----Include-Function----
 function include(url){ 
   document.write('<script type="text/javascript" src="'+ url +'" ></script>'); 
