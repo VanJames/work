@@ -60,7 +60,6 @@ class ValidateCode {
 		  $this->createCode();
 		  $this->createLine();
 		  $this->createFont();
-		  //echo $this->code;die;
 		  $this->outPut();
 	 }
 	 //获取验证码
